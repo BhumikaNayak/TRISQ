@@ -1,0 +1,2 @@
+# TRISQ
+C programming language 
